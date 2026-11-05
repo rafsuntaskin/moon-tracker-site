@@ -1,0 +1,10 @@
+title: Moon Tracker
+description: Moon phase, moonrise times and full-moon reminders for iPhone and Android.
+theme: jekyll-theme-primer
+
+# Public contact address shown on every page. While it's empty, the pages
+# send people to this repo's GitHub Issues instead. Set it before store submission.
+contact_email: ""
+
+exclude:
+  - README.md
